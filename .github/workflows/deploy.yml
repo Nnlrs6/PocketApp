@@ -28,4 +28,4 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./build  # Remplace par le répertoire de sortie de ton projet, généralement "build" ou "dist" 
+        publish_dir: ./build  # Remplace par le répertoire de sortie de ton projet, généralement "build" ou "dist"
