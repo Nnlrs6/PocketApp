@@ -235,4 +235,4 @@ const App = () => {
 };
 
 export default App;
-Personnalisation de l'application React
+Personnalisation de l'application React;
