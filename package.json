@@ -1,5 +1,5 @@
 {
-  "name": "mon-application",
+  "name": "pocketapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,3 +39,4 @@
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
 }
+Ajout de react-scripts pour déploiement sur Render
