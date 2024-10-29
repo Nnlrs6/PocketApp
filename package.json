@@ -1,7 +1,7 @@
 {
   "name": "pocketapp",
   "version": "0.1.0",
-  "private": true,
+  "private": true",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -39,4 +39,3 @@
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
 }
-Ajout de react-scripts pour déploiement sur Render
